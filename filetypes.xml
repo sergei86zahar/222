@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Apple" type="JAVA" />
+      <mapping pattern="Глава_15" type="PLAIN_TEXT" />
+      <mapping pattern="wef" type="PLAIN_TEXT" />
+      <mapping pattern="_Глава_13" type="PLAIN_TEXT" />
+      <mapping pattern="COPYRIGHT" type="PLAIN_TEXT" />
+      <mapping pattern="Глава_21" type="PLAIN_TEXT" />
+      <mapping pattern="Глава_14" type="PLAIN_TEXT" />
+      <mapping pattern="_Глава_12" type="PLAIN_TEXT" />
+      <mapping pattern="Глава_18" type="PLAIN_TEXT" />
+      <mapping pattern="Глава_17" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

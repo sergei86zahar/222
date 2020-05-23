@@ -1,0 +1,21 @@
+<templateSet group="user">
+  <template name="sss" value="System.out.println(" shortcut="ENTER" description="System.out.println(" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="big" value="BigDecimal bd = new BigDecimal($VAR1$).setScale($VAR2$, RoundingMode.HALF_EVEN);&#10;        $VAR1$ = bd.doubleValue();" description="BigDecimal" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="scan" value="        Scanner $VAR$ = new Scanner(System.in);&#10;        int $VAR1$ = $VAR$.nextInt();" description="Scanner" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
