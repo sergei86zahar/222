@@ -7,6 +7,7 @@
       <mapping pattern="_Глава_13" type="PLAIN_TEXT" />
       <mapping pattern="COPYRIGHT" type="PLAIN_TEXT" />
       <mapping pattern="Глава_21" type="PLAIN_TEXT" />
+      <mapping pattern="_Глава_21_io" type="PLAIN_TEXT" />
       <mapping pattern="Глава_14" type="PLAIN_TEXT" />
       <mapping pattern="_Глава_12" type="PLAIN_TEXT" />
       <mapping pattern="Глава_18" type="PLAIN_TEXT" />
