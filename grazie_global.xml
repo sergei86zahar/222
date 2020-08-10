@@ -1,9 +1,8 @@
 <application>
   <component name="GraziConfig">
-    <option name="enabledLanguages">
+    <option name="disabledGrammarStrategies">
       <set>
-        <option value="English (US)" />
-        <option value="Russian" />
+        <option value="tanvd.grazi:JAVA" />
       </set>
     </option>
   </component>
